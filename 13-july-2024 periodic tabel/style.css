@@ -1,0 +1,67 @@
+td{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 0px 1px 3px black;
+}
+td:hover{
+    background-color: transparent;
+}
+.full-n{
+    font-size: 0.7rem;
+    line-height: 0px;
+}
+.number{
+    line-height: 0px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.name{
+    line-height: 0px;
+    font-weight: bold;
+}
+.cat-1{
+    background-color: rgb(126, 214, 140);
+}
+
+.cat-2{
+    background-color:  rgb(247, 20, 65);;
+}
+
+.cat-3{
+    background-color: orange;
+}
+
+.cat-4{
+    background-color: rgb(131, 194, 212);
+}
+
+.cat-5{
+    background-color: plum;
+}
+
+.cat-6{
+    background-color: rgb(248, 252, 11);
+}
+
+.cat-7{
+    background-color: rgb(250, 140, 184);
+}
+
+.cat-8{
+    background-color: gray;
+}
+
+.cat-9{
+    background-color: royalblue;
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 4px;
+    width: 600px;
+    line-height: 40px;
+    box-shadow: 0px 3px 10px black;
+    color: white;
+}
